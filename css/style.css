@@ -37,11 +37,10 @@
 .darktheme {
     --accent: #186efd60;
     #--bg: #1e1f21;
-    --bg: #4488c4;
+    --bg: #2E577A;
     #--sbg: #2c2d31;
-    --sbg: #4488c4;
-    #--fg: #d8dee9;
-    --fg: #4488c4;
+    --sbg: #2E577A;
+    --fg: #d8dee9;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
 
